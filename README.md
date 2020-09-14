@@ -4,7 +4,9 @@
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)   
 
 ## [Follow us on Instagram for Machine Learning Guidelines & Path](https://www.instagram.com/machine_learning_hub.ai/)
-## [Watch Tutorial for this project](https://www.youtube.com/c/MachineLearningHub)
+## [Watch Tutorial for this project](https://youtu.be/H_nAvq9KSJo)
+## [Android App tutorial for same project](https://youtu.be/5QCTT05swnE)
+
 ## [Buy Python & ML projects for students at lower rate](https://www.instamojo.com/kushalbhavsar1820)
 
 ## Usage:-
